@@ -1,0 +1,29 @@
+<html>
+	<head>
+        <title>iMusicAmp</title>
+		<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">
+        <style>html {background-color:#eeeeee} body { background-color:#FFFFFF; font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:18x; margin-left:15%; margin-right:15%; border:3px groove #006600; padding:15px; }
+        </style>
+    </head>
+	<body>
+        <h1>iMusicAmp File Upload...</h1>
+		<form action="index.html" method="post" enctype="multipart/form-data" accept-charset="utf-8">
+        <table>
+          <tr>
+            <td>Select Album</td>
+            <td>Select Single</td>
+          </tr>
+          <tr>
+            <td><input type="file" name="files" multiple="" webkitdirectory></td>
+            <td><input type="file" name="file"></td>
+          </tr>
+        </table>
+        <br/>
+		<input type="submit" value="Submit">
+        </form>
+        <bq>The following files are hosted live from the iMusicAmp Docs folder.</bq>
+        <p>
+            %MyFiles%
+        </p>
+	</body>
+</html>

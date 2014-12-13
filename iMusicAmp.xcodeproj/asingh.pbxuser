@@ -1,0 +1,135 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* iMusicAmp */ = {
+		activeExec = 0;
+		executables = (
+			8ACBEC7C18A685D9007DBD9B /* iMusicAmp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8ACBEC7C18A685D9007DBD9B /* iMusicAmp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iMusicAmp */;
+		codeSenseManager = 8ACBEC8F18A685DA007DBD9B /* Code sense */;
+		executables = (
+			8ACBEC7C18A685D9007DBD9B /* iMusicAmp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 413566425;
+			PBXWorkspaceStateSaveDate = 413566425;
+		};
+		perUserProjectItems = {
+			8ACBEC9818A6864E007DBD9B /* PBXTextBookmark */ = 8ACBEC9818A6864E007DBD9B /* PBXTextBookmark */;
+			8ACBEC9918A6864E007DBD9B /* PBXBookmark */ = 8ACBEC9918A6864E007DBD9B /* PBXBookmark */;
+			8ACBEC9A18A6864E007DBD9B /* PBXTextBookmark */ = 8ACBEC9A18A6864E007DBD9B /* PBXTextBookmark */;
+			8ACBEC9B18A6864E007DBD9B /* PBXTextBookmark */ = 8ACBEC9B18A6864E007DBD9B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8ACBEC8E18A685DA007DBD9B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8AB0B048185204DA005B2BE2 /* AppHTTPConnection.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 3080}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 657}";
+		};
+	};
+	8ACBEC7C18A685D9007DBD9B /* iMusicAmp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iMusicAmp;
+		sourceDirectories = (
+		);
+	};
+	8ACBEC8E18A685DA007DBD9B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	8ACBEC8F18A685DA007DBD9B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8ACBEC9818A6864E007DBD9B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8AB0B048185204DA005B2BE2 /* AppHTTPConnection.m */;
+		name = "AppHTTPConnection.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	8ACBEC9918A6864E007DBD9B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = AFCF602713940F9B00D7A99C /* AssetBrowserController.h */;
+	};
+	8ACBEC9A18A6864E007DBD9B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8AB0B048185204DA005B2BE2 /* AppHTTPConnection.m */;
+		name = "AppHTTPConnection.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	8ACBEC9B18A6864E007DBD9B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AFCF602713940F9B00D7A99C /* AssetBrowserController.h */;
+		name = "AssetBrowserController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 940;
+		vrLoc = 2885;
+	};
+	AFCF602713940F9B00D7A99C /* AssetBrowserController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 1932}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2885, 940}";
+		};
+	};
+}
